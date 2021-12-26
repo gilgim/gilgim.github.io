@@ -3497,8 +3497,7 @@ sub,sup {
 	margin:10px
 }
 img{
-    width: 150;
-    height: 150;
+    width: 4rem;
 }
 .user {
 	text-align:center;
