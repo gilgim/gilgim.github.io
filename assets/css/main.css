@@ -11,7 +11,7 @@ body {
 article,aside,details,figcaption,figure,footer,header,main,menu,nav,section {
 	display:block
 }
-img{
+.imgicon{
     width: 4rem;
 }
 h1 {
