@@ -3496,7 +3496,7 @@ sub,sup {
 .tech {
 	margin:10px
 }
-.tech .img{
+img{
     width: 150;
     height: 150;
 }
