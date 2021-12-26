@@ -11,6 +11,9 @@ body {
 article,aside,details,figcaption,figure,footer,header,main,menu,nav,section {
 	display:block
 }
+img{
+    width: 4rem;
+}
 h1 {
 	font-size:2em;
 	margin:.67em 0
@@ -3495,9 +3498,6 @@ sub,sup {
 }
 .tech {
 	margin:10px
-}
-img{
-    width: 4rem;
 }
 .user {
 	text-align:center;
