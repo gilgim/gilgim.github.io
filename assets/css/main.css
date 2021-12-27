@@ -14,6 +14,9 @@ article,aside,details,figcaption,figure,footer,header,main,menu,nav,section {
 .imgicon{
     width: 4rem;
 }
+.project-img {
+    width: 24rem;
+}
 h1 {
 	font-size:2em;
 	margin:.67em 0
